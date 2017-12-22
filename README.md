@@ -41,4 +41,6 @@ Para a solução, explanação ou abertura de dǘvidas sobre o projeto, fica ele
  **O Prazo de entrega do Projeto é 30 de Janeiro de 2018**
 
 # Apoio
-- [**Desec Information Security**](https://www.pentestprofissional.com.br/)
+[**Desec Security**](https://www.pentestprofissional.com.br/)
+![Desec Security](https://www.desec.com.br/wp-content/uploads/2016/07/logo_desec_180px_invert_top.png)
+
