@@ -36,7 +36,10 @@ O vencedor irá ganhar um voucher para cursar a Formação Pentest Profissional 
 ## Dúvidas e discussões relacionadas
 Para a solução, explanação ou abertura de dǘvidas sobre o projeto, fica eleito o Fórum Fsociety Brasil, no link abaixo vocês podem tirar dúvidas sobre a participação no torneio, etc.
 ### Submissão do Projeto para avaliação
- após concluir seu projeto, deve enviar um e-mail para contato@fsocietybrasil.org com o assunto "Hackathon Fsociety Brasil", neste e-mail devem estar descritos: Informações sobre o projeto, repositório com o código fonte para que possamos avaliá-lo e instruções de uso, instalação e configuração do mesmo.
+ após concluir seu projeto, deve enviar um e-mail para **contato@fsocietybrasil.org** com o assunto "**Hackathon Fsociety Brasil**", neste e-mail devem estar descritos: 
+ - Informações sobre o projeto
+ - Repositório com o código fonte para que possamos avaliá-lo
+ - Instruções de uso, instalação e configuração do mesmo.
 
  **O Prazo de entrega do Projeto é 30 de Janeiro de 2018**
 
