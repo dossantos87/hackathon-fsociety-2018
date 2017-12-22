@@ -53,4 +53,4 @@ Para a solução, explanação ou abertura de dǘvidas sobre o projeto, fica ele
 [**Desec Security**](https://www.desec.com.br/)
 
 ![Sinergia Consultoria e Soluções](https://sinergiasolucoes.com/wp-content/themes/kedon/images/logo-sinergia.png)  
-[**Sinergia Consultoria e Soluções](https://sinergiasolucoes.com/)
+[**Sinergia Consultoria e Soluções**](https://sinergiasolucoes.com/)
