@@ -52,5 +52,5 @@ Para a solução, explanação ou abertura de dǘvidas sobre o projeto, fica ele
 [**Formação Pentester Profissional**](https://www.pentestprofissional.com.br/)  
 [**Desec Security**](https://www.desec.com.br/)
 
-![Sinergia Consultoria e Soluções](https://sinergiasolucoes.com/wp-content/themes/kedon/images/logo-sinergia.png)  
+![Sinergia Consultoria e Soluções](https://i.imgur.com/BVuEoQn.png)  
 [**Sinergia Consultoria e Soluções**](https://sinergiasolucoes.com/)
