@@ -19,7 +19,9 @@ O objetivo da Hackaton Fsociety Brasil é construir uma das seguintes aplicaçõ
 6. Os candidatos que desejam participar da Hackaton devem criar um repositório público no GitHub e submeter o código fonte do projeto participante através do mesmo, para que possamos avaliar.
 
 ## Premiação
-O vencedor irá ganhar um voucher para cursar a Formação Pentest Profissional da Desec Security completa, veja os detalhes no site [https://www.pentestprofissional.com.br/](https://www.pentestprofissional.com.br/)
+1. O vencedor irá ganhar um voucher para cursar a Formação Pentest Profissional da Desec Security completa, veja os detalhes no site [https://www.pentestprofissional.com.br/](https://www.pentestprofissional.com.br/)
+2. O segundo colocado receberá um ingresso para participar do Roadsec São Paulo ou Então 1 dos Roadsecs Regionais, caso prefira.
+3. O terceiro colocado receberá 1 Voucher para compra de Curso na Udemy (**Desde que o curso esteja entre os participantes da promoção que a plataforma nos ofereceu!!!**)
 
 ## Regras:
 - **Não pode**: 
@@ -50,3 +52,5 @@ Para a solução, explanação ou abertura de dǘvidas sobre o projeto, fica ele
 [**Formação Pentester Profissional**](https://www.pentestprofissional.com.br/)  
 [**Desec Security**](https://www.desec.com.br/)
 
+![Sinergia Consultoria e Soluções](https://sinergiasolucoes.com/wp-content/themes/kedon/images/logo-sinergia.png)  
+[**Sinergia Consultoria e Soluções](https://sinergiasolucoes.com/)
