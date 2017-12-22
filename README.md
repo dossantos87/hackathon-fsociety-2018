@@ -44,5 +44,6 @@ Para a solução, explanação ou abertura de dǘvidas sobre o projeto, fica ele
 
 ![Desec Security](https://www.desec.com.br/wp-content/uploads/2016/07/logo_desec_180px_invert_top.png)
 
-[**Desec Security**](https://www.pentestprofissional.com.br/)
+[**Formação Pentester Profissional**](https://www.pentestprofissional.com.br/)
+[**Desec Security**](https://www.desec.com.br/)
 
