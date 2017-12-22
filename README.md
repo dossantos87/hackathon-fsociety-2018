@@ -7,7 +7,7 @@ O objetivo da Hackaton Fsociety Brasil é construir uma das seguintes aplicaçõ
     1. **A botnet deve ter uma das seguintes funções.**
         - Servir para POC de IP Flood (vulgo DDOS)
         - Uso dos alvos para processamento de dados
-        - Tema livre (crie uma funcionalidade que seja legal, criativa e útil)
+        - Coleta / Mineração de dados Online.
         
 3. Um sistema de gerenciamento de mídias sociais, onde o administrador consiga gerenciar a publicação de posts no facebook e twitter, isto inclui, agendamento de publicações e controle de acesso de usuários por níveis.
 (Laravel Framework será um diferencial).
