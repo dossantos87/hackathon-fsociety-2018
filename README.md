@@ -1,22 +1,21 @@
 # Hackathon Fsociety Brasil
 O objetivo da Hackaton Fsociety Brasil é construir uma das seguintes aplicações.
 
-1. Uma rede de Bots com a capacidade de publicar e/ou compartilhar publicações no Twitter e Facebook, através de um painel administrável onde o usuário possa escolher o que deve ser publicado ou compartilhado.
-
-2. Uma rede de Botnets gerenciável (não precisa de máquinas infectadas, apenas precisa estar funcional, isto é, que seja possível infectar um alvo, e controlá-lo remotamente através de interface web ou linha de comando).
-    1. **A botnet deve ter uma das seguintes funções.**
-        - Servir para POC de IP Flood (vulgo DDOS)
-        - Uso dos alvos para processamento de dados
-        - Coleta / Mineração de dados Online.
+1. Projeto 1: Uma rede de Botnets gerenciável (não precisa de máquinas infectadas, apenas precisa estar funcional, isto é, que seja possível infectar um alvo, e controlá-lo remotamente através de interface web ou linha de comando).
+    1. **A botnet deve ter uma das seguintes funções (não precisa ser todas, uma só já é suficiente!!!).**
+        - Servir para IP Flood (DDOS)
+        - Processar dados nos computadores alvo
+        - Coleta / Mineração de dados Online, raspagem de dados, like Fernando Masanori.
+        - a capacidade de publicar e/ou compartilhar publicações no Twitter e Facebook, através de um painel administrável onde o usuário possa escolher o que deve ser publicado ou compartilhado ou então através de linha de comando.
         
-3. Um sistema de gerenciamento de mídias sociais, onde o administrador consiga gerenciar a publicação de posts no facebook e twitter, isto inclui, agendamento de publicações e controle de acesso de usuários por níveis.
+2. Projeto 2: Um sistema de gerenciamento de conteúdo em mídias sociais, onde seja possível gerenciar a publicação de posts no facebook e twitter, isto inclui, agendamento de publicações e controle de acesso de usuários por níveis (ex: admin pode apagar posts, ou publicar em determinadas páginas, etc.).
 (Laravel Framework será um diferencial).
 
-4. Todos os projetos devem ter uma mínima documentação, sobre usou ou implementações necessárias para seu funcionamento correto, instruções de instalção, dependências necessárias para o projeto, entre outros fatores importantes para o funcionamento da aplicação, devem ser descritos nesta documentação.
+3. Todos os projetos devem ter uma mínima documentação, sobre usou ou implementações necessárias para seu funcionamento correto, instruções de instalção, dependências necessárias para o projeto, entre outros fatores importantes para o funcionamento da aplicação, devem ser descritos nesta documentação.
 
-5. O código fonte de todos os projetos será disponibilizado de forma livre na comunidade, após a conclusão da Hackathon.
+4. O código fonte de todos os projetos será disponibilizado de forma livre na comunidade, após a conclusão da Hackathon.
 
-6. Os candidatos que desejam participar da Hackaton devem criar um repositório público no GitHub e submeter o código fonte do projeto participante através do mesmo, para que possamos avaliar.
+5. Os candidatos que desejam participar da Hackaton devem criar um repositório público no GitHub e submeter o código fonte do projeto participante através do mesmo, para que possamos avaliar.
 
 ## Premiação
 1. O vencedor irá ganhar um voucher para cursar a Formação Pentest Profissional da Desec Security completa, veja os detalhes no site [https://www.pentestprofissional.com.br/](https://www.pentestprofissional.com.br/)
@@ -37,6 +36,8 @@ O objetivo da Hackaton Fsociety Brasil é construir uma das seguintes aplicaçõ
 
 ## Dúvidas e discussões relacionadas
 Para a solução, explanação ou abertura de dǘvidas sobre o projeto, fica eleito o Fórum Fsociety Brasil, no link abaixo vocês podem tirar dúvidas sobre a participação no torneio, etc.
+[Fórum Fsociety Brasil](https://forum.fsocietybrasil.org)
+
 ### Submissão do Projeto para avaliação
  após concluir seu projeto, deve enviar um e-mail para **contato@fsocietybrasil.org** com o assunto "**Hackathon Fsociety Brasil**", neste e-mail devem estar descritos: 
  - Informações sobre o projeto
