@@ -2,16 +2,16 @@
 
 ![1ª Hackathon Fsociety Brasil](https://i.imgur.com/SuOvB6z.jpg)
 
-#### O objetivo da Hackaton Fsociety Brasil é construir uma das seguintes aplicações.
+#### O objetivo da Hackathon Fsociety Brasil é construir uma das seguintes aplicações.
 
-1. Projeto 1: Uma rede de Botnets gerenciável (não precisa de máquinas infectadas, apenas precisa estar funcional, isto é, que seja possível infectar um alvo, e controlá-lo remotamente através de interface web ou linha de comando).
+1. **Projeto 1**: Uma rede de Botnets gerenciável (não precisa de máquinas infectadas, apenas precisa estar funcional, isto é, que seja possível infectar um alvo, e controlá-lo remotamente através de interface web ou linha de comando).
     1. **A botnet deve ter uma das seguintes funções (não precisa ser todas, uma só já é suficiente!!!).**
         - Servir para IP Flood (DDOS)
         - Processar dados nos computadores alvo
         - Coleta / Mineração de dados Online, raspagem de dados, like Fernando Masanori.
         - a capacidade de publicar e/ou compartilhar publicações no Twitter e Facebook, através de um painel administrável onde o usuário possa escolher o que deve ser publicado ou compartilhado ou então através de linha de comando.
         
-2. Projeto 2: Um sistema de gerenciamento de conteúdo em mídias sociais, onde seja possível gerenciar a publicação de posts no facebook e twitter, isto inclui, agendamento de publicações e controle de acesso de usuários por níveis (ex: admin pode apagar posts, ou publicar em determinadas páginas, etc.).
+2. **Projeto 2**: Um sistema de gerenciamento de conteúdo em mídias sociais, onde seja possível gerenciar a publicação de posts no facebook e twitter, isto inclui, agendamento de publicações e controle de acesso de usuários por níveis (ex: admin pode apagar posts, ou publicar em determinadas páginas, etc.).
 (Laravel Framework será um diferencial).
 
 3. Todos os projetos devem ter uma mínima documentação, sobre usou ou implementações necessárias para seu funcionamento correto, instruções de instalção, dependências necessárias para o projeto, entre outros fatores importantes para o funcionamento da aplicação, devem ser descritos nesta documentação.
