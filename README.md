@@ -1,5 +1,8 @@
 # Hackathon Fsociety Brasil
-O objetivo da Hackaton Fsociety Brasil é construir uma das seguintes aplicações.
+
+![1ª Hackathon Fsociety Brasil](https://i.imgur.com/SuOvB6z.jpg)
+
+#### O objetivo da Hackaton Fsociety Brasil é construir uma das seguintes aplicações.
 
 1. Projeto 1: Uma rede de Botnets gerenciável (não precisa de máquinas infectadas, apenas precisa estar funcional, isto é, que seja possível infectar um alvo, e controlá-lo remotamente através de interface web ou linha de comando).
     1. **A botnet deve ter uma das seguintes funções (não precisa ser todas, uma só já é suficiente!!!).**
